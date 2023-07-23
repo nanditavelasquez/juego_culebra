@@ -7,5 +7,5 @@
 <div>
 
 <div align="center">
-   <img src="img/juego_culebra.jpg" width="758" height="513">
+   <img src="img/juego_culebra.jpg" width="597" height="558">
 </div>
